@@ -1,4 +1,14 @@
-btn {
-    color: red;
+body {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
+.container {
+    display: grid;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
